@@ -10,3 +10,6 @@ Implemented a multi-SKU inventory decision-support system for the Cadbury Dairy 
 * Formula: ROP = (Daily Demand x Lead Time) + Safety Stock
 * Safety Stock (SS) = Z x Standard Deviation x sqrt(Lead Time)
 * Dynamic service level adjustment (90% to 99% Z-scores).
+### Economic Order Quantity (EOQ)
+* Formula: EOQ = sqrt((2 x Demand x Ordering Cost) / Holding Cost)
+* Minimizes combined holding and ordering costs per SKU with dynamic trade-off charts.
