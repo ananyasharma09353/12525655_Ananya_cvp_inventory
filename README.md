@@ -6,3 +6,7 @@
 # How to run: Open cvp-dashboard/index.html in browser
 ## Task 2: Inventory Management System Overview
 Implemented a multi-SKU inventory decision-support system for the Cadbury Dairy Milk product line.
+### Reorder Point (ROP) & Safety Stock
+* Formula: ROP = (Daily Demand x Lead Time) + Safety Stock
+* Safety Stock (SS) = Z x Standard Deviation x sqrt(Lead Time)
+* Dynamic service level adjustment (90% to 99% Z-scores).
