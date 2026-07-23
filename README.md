@@ -25,3 +25,5 @@ Provides comparative closing stock valuation and COGS reports under:
 ### Stock Movement & CRUD Operations
 * Transaction logger supports Stock-In (Purchases) and Stock-Out (Sales Issues).
 * Maintains running balances and triggers real-time low-stock alerts when stock <= ROP.
+### Live Task 2 Application Link
+* **Interactive Inventory Dashboard:** https://YOUR_GITHUB_USERNAME.github.io/RegNo_Name_CVP_Inventory/inventory-system/
