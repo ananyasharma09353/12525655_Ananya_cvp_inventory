@@ -13,3 +13,8 @@ Implemented a multi-SKU inventory decision-support system for the Cadbury Dairy 
 ### Economic Order Quantity (EOQ)
 * Formula: EOQ = sqrt((2 x Demand x Ordering Cost) / Holding Cost)
 * Minimizes combined holding and ordering costs per SKU with dynamic trade-off charts.
+### Inventory Valuation Methods
+Provides comparative closing stock valuation and COGS reports under:
+1. First-In, First-Out (FIFO)
+2. Last-In, First-Out (LIFO)
+3. Weighted Average Cost (WAC)
