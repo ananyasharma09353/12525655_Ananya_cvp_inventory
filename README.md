@@ -22,3 +22,6 @@ Provides comparative closing stock valuation and COGS reports under:
 * Category A: Top 70% of total annual consumption value
 * Category B: Next 20% of annual value
 * Category C: Remaining 10% of annual value
+### Stock Movement & CRUD Operations
+* Transaction logger supports Stock-In (Purchases) and Stock-Out (Sales Issues).
+* Maintains running balances and triggers real-time low-stock alerts when stock <= ROP.
