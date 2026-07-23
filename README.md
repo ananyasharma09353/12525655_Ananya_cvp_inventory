@@ -1,9 +1,11 @@
 # Cadbury Dairy Milk - CVP & Inventory System
 ## Student Details: Lovely Professional University B.Com Hons
-: ### Pricing Inputs: Price = Rs. 100, VC = Rs. 80, FC = Rs. 1,20,000
+### Pricing Inputs: Price = Rs. 100, VC = Rs. 80, FC = Rs. 1,20,000
 ### Core Metrics: BEP = 6,000 units, MOS = 45.45%, DOL = 2.20x
 ### Sensitivity Range: +/-5%, +/-10%, +/-20% cost shifts
-# How to run: Open cvp-dashboard/index.html in browser
+## Live System Dashboards
+* 📊 [Task 1 - CVP Dashboard](https://ananyasharma09353.github.io/12525655_Ananya_cvp_inventory/cvp-dashboard/)
+* 📦 [Task 2 - Inventory Management System](https://ananyasharma09353.github.io/12525655_Ananya_cvp_inventory/inventory-system/)
 ## Task 2: Inventory Management System Overview
 Implemented a multi-SKU inventory decision-support system for the Cadbury Dairy Milk product line.
 ### Reorder Point (ROP) & Safety Stock
