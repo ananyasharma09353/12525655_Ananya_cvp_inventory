@@ -18,3 +18,7 @@ Provides comparative closing stock valuation and COGS reports under:
 1. First-In, First-Out (FIFO)
 2. Last-In, First-Out (LIFO)
 3. Weighted Average Cost (WAC)
+### ABC Pareto Classification
+* Category A: Top 70% of total annual consumption value
+* Category B: Next 20% of annual value
+* Category C: Remaining 10% of annual value
